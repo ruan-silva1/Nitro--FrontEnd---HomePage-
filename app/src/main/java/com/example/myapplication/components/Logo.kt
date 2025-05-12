@@ -9,7 +9,7 @@ import com.example.myapplication.R
 @Composable
 fun Logo(modifier: Modifier = Modifier) {
     Image(
-        painter = painterResource(id = R.drawable.nitro_logo_png),
+        painter = painterResource(id = R.drawable.nitro_logo_bgt),
         contentDescription = "Nitro Logo",
         modifier = Modifier
     )
